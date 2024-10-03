@@ -13,5 +13,5 @@ while current_x < end_x:
     current_y += step * slope
     print(f"x: {x}, y: {y}, slope: {slope}")
     print(f"x: {current_x}, y: {current_y}")
-    print(current_x, current_y)
-    
+print(f"Final x value: {current_x}") 
+print(f"Final y value: {current_y}")
